@@ -1,0 +1,31 @@
+.row {
+	justify-content: start;
+	text-align: center;
+}
+
+.sec {
+	margin: 20px;
+	padding:35px;
+}
+
+.heading {
+	padding-bottom: 0px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+body{
+	overflow: hidden;
+	font-size: 13px;
+	font-family: sans-serif;
+	background-color: #b8f4f5;
+	color: #17565e;
+}
+
+.list-group-item{
+	background-color: #b8f4f5;
+}
+
+.btn {
+	font-size: 20px;
+}
